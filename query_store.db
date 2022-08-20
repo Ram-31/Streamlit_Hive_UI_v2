@@ -1,0 +1,1 @@
+{"filter_enums": ["varchar", "int", "date", "float"], "Queries": ["query1"], "query1": {"query_path": "D:\\Ram\\Python\\Streamlit\\Multipage\\Queries\\query1.sql", "query_filters": [{"value": "start_date", "type": "date"}, {"value": "end_date", "type": "date"}, {"value": "data", "type": "varchar"}]}}
